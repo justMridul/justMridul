@@ -4,7 +4,7 @@ I'm **Mridul**, a final-year undergrad looking for SDE and Full-Stack roles.
 
 I build web applications and software systems with a focus on clean user interfaces, efficient algorithms, and robust backends. 
 
-Most projects are built using **C++**, **JavaScript**, **React**, and **Node.js**.
+Most projects are built using **C++**, **Python**, **JavaScript**, **React**, and **Node.js**.
 
 Currently, I'm diving deep into **Machine Learning** and exploring ways to integrate intelligent features into real-world applications.
 
